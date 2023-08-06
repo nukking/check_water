@@ -5,7 +5,7 @@ import requests
 TELEGRAM_URL = 'https://api.telegram.org/bot5370584924:AAHUC-AwSEyzlnlcWVAgZ-TpVkDwRPMoiDA/sendmessage?chat_id=-1001556285353&text='
 
 # Thresholds for water levels
-VV1_HIGH = 190
+VV1_HIGH = 215
 VV1_LOW = 45
 VV2_HIGH = 150
 VV2_LOW = 60
